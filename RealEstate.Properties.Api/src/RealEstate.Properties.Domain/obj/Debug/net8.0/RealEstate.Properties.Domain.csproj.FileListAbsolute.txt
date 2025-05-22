@@ -1,0 +1,12 @@
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Domain\bin\Debug\net8.0\RealEstate.Properties.Domain.deps.json
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Domain\bin\Debug\net8.0\RealEstate.Properties.Domain.dll
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Domain\bin\Debug\net8.0\RealEstate.Properties.Domain.pdb
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Domain\obj\Debug\net8.0\RealEstate.Properties.Domain.csproj.AssemblyReference.cache
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Domain\obj\Debug\net8.0\RealEstate.Properties.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Domain\obj\Debug\net8.0\RealEstate.Properties.Domain.AssemblyInfoInputs.cache
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Domain\obj\Debug\net8.0\RealEstate.Properties.Domain.AssemblyInfo.cs
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Domain\obj\Debug\net8.0\RealEstate.Properties.Domain.csproj.CoreCompileInputs.cache
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Domain\obj\Debug\net8.0\RealEstate.Properties.Domain.dll
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Domain\obj\Debug\net8.0\refint\RealEstate.Properties.Domain.dll
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Domain\obj\Debug\net8.0\RealEstate.Properties.Domain.pdb
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Domain\obj\Debug\net8.0\ref\RealEstate.Properties.Domain.dll

@@ -1,0 +1,17 @@
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Infrastructure\bin\Debug\net8.0\RealEstate.Properties.Infrastructure.deps.json
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Infrastructure\bin\Debug\net8.0\RealEstate.Properties.Infrastructure.dll
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Infrastructure\bin\Debug\net8.0\RealEstate.Properties.Infrastructure.pdb
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Infrastructure\bin\Debug\net8.0\RealEstate.Properties.Application.dll
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Infrastructure\bin\Debug\net8.0\RealEstate.Properties.Domain.dll
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Infrastructure\bin\Debug\net8.0\RealEstate.Properties.Application.pdb
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Infrastructure\bin\Debug\net8.0\RealEstate.Properties.Domain.pdb
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Infrastructure\obj\Debug\net8.0\RealEstate.Properties.Infrastructure.csproj.AssemblyReference.cache
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Infrastructure\obj\Debug\net8.0\RealEstate.Properties.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Infrastructure\obj\Debug\net8.0\RealEstate.Properties.Infrastructure.AssemblyInfoInputs.cache
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Infrastructure\obj\Debug\net8.0\RealEstate.Properties.Infrastructure.AssemblyInfo.cs
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Infrastructure\obj\Debug\net8.0\RealEstate.Properties.Infrastructure.csproj.CoreCompileInputs.cache
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Infrastructure\obj\Debug\net8.0\RealEsta.D4E9C56B.Up2Date
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Infrastructure\obj\Debug\net8.0\RealEstate.Properties.Infrastructure.dll
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Infrastructure\obj\Debug\net8.0\refint\RealEstate.Properties.Infrastructure.dll
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Infrastructure\obj\Debug\net8.0\RealEstate.Properties.Infrastructure.pdb
+C:\.NET 8 Proyectos - Ejemplos\Million\RealEstate.Properties.Api\src\RealEstate.Properties.Infrastructure\obj\Debug\net8.0\ref\RealEstate.Properties.Infrastructure.dll

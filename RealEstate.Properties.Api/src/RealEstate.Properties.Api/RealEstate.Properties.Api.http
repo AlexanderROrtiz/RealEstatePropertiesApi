@@ -1,0 +1,6 @@
+@RealEstate.Properties.Api_HostAddress = http://localhost:5073
+
+GET {{RealEstate.Properties.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
